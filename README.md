@@ -1,52 +1,119 @@
-# gudurudeepthi9
-# 👋 Hi, I'm Deepthi! 💜
+# 👋 Hi, I'm G Deepthi
 
-🎓 **AIML Student | Aspiring AI/ML Engineer | Tech Enthusiast**
+### 🤖 AI & ML Student | 💻 Developer | 🚀 Tech Enthusiast
 
-> 🚀 Turning ideas into code and challenges into opportunities.
-
-## 🌟 About Me
-
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 💻 Interested in **Python, Java & Data Structures**
-- 🌐 Exploring **Web Development**
-- ☁️ Interested in **Cloud Computing**
-- 🚀 Building projects that solve real-world problems
-- 🌱 Always learning and improving my technical skills
-- 🤝 Open to internships, collaborations and new opportunities
-
-## 🛠️ Skills
-
-🐍 Python | ☕ Java | 🧩 DSA | 🤖 AI/ML | 🌐 HTML/CSS/JavaScript | ☁️ Cloud
-
-## 📜 Certifications & Achievements
-
-- 🏆 **Google Cloud Study Jams 2025** – Earned **19 Google Cloud Skill Badges**
-- ☁️ **Hedera Certification** – Distributed Ledger Technology & Blockchain
-- 🤖 **AWS AI/ML Internship Certification**
-- 💻 **AI/ML & Cloud Computing Certifications**
-- 🌱 Participated in various **workshops, internships & technical programs**
-
-## 🚀 Projects
-
-### 🤖 AI-Based Predictive Decision-Making System for Colleges
-An AI-based project designed to support data-driven decision-making in educational institutions.
-
-### 🌍 NGO Awareness Website
-A web project focused on creating awareness about social causes, community support and environmental sustainability.
-
-## 🎯 Career Goal
-
-To become a skilled **AI/ML Engineer** and build innovative solutions that create a positive real-world impact.
-
-## 🤝 Connect With Me
-
-📧 **Email:** gudurudeepthi9@gmail.com 
-💼 **LinkedIn:** www.linkedin.com/in/deepthiguduru  
-🐙 **GitHub:** https://github.com/gudurudeepthi9-cell
+> 💡 Passionate about learning, building, and turning ideas into real-world solutions.
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
+## 👩‍💻 About Me
 
-✨ *Learn • Build • Innovate • Grow* 🚀
+🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+
+🤖 Interested in **AI, Machine Learning, Deep Learning & Software Development**
+
+💻 I enjoy solving problems, developing projects, and exploring new technologies.
+
+🌱 Currently improving my skills in:
+
+- 🐍 Python
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🤖 AI & Machine Learning
+- 🌐 Web Development
+- ☁️ Cloud Computing
+
+🎯 **Career Goal:** To become a skilled **AI/ML Engineer or Software Engineer** and contribute to innovative real-world solutions.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+`Python` `Java` `C` `SQL`
+
+### 🤖 AI & ML
+`Artificial Intelligence` `Machine Learning` `Deep Learning` `Predictive Analytics`
+
+### 🌐 Web Development
+`HTML` `CSS` `JavaScript`
+
+### ☁️ Cloud & Tools
+`Google Cloud` `AWS` `Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Based Predictive Decision-Making System for Colleges
+
+🎓 An AI-powered solution designed to help educational institutions make **data-driven decisions**.
+
+**Technologies:** `Python` `AI/ML` `Data Science`
+
+---
+
+### 🌍 NGO Awareness Website
+
+💚 A web application focused on spreading awareness about **social causes, animal welfare, community support, and environmental sustainability**.
+
+**Technologies:** `HTML` `CSS` `JavaScript`
+
+---
+
+## 🏆 Certifications & Achievements
+
+🏅 **Google Cloud Study Jams 2025**  
+☁️ Earned **19 Google Cloud Skill Badges**
+
+🏅 **Hedera Certification**  
+🔗 Distributed Ledger Technology & Blockchain
+
+🏅 **AWS AI/ML Internship**  
+🤖 Practical exposure to Artificial Intelligence & Machine Learning
+
+🏅 **AI/ML & Cloud Computing Certifications**
+
+🏆 **Hackathons & Technical Events**  
+💡 Participated in technical programs, workshops and project-based activities
+
+---
+
+## 📚 Academic Knowledge
+
+🧩 Data Structures & Algorithms  
+🗃️ Database Management Systems  
+💻 Operating Systems  
+🌐 Computer Networks  
+🤖 Artificial Intelligence  
+🧠 Machine Learning  
+☁️ Cloud Computing  
+
+---
+
+## 🌱 Currently Exploring
+
+🤖 Advanced AI & ML  
+🐍 Python Development  
+☕ Java & DSA  
+☁️ Cloud Technologies  
+🌐 Full-Stack Development  
+💡 Real-World AI Applications  
+
+---
+
+## 🌐 Connect With Me
+
+💼 **LinkedIn:** linkedin.com/in/deepthiguduru
+🐙 **GitHub:**github.com/gudurudeepthi9-cell
+📧 **Email:**gudurudeepthi9@gmail.com
+
+---
+
+## 💬 My Philosophy
+
+> 🌱 **Learn continuously. Build consistently. Improve every day.**
+
+⭐ **If you like my work, consider starring ⭐ my repositories!**
+
+### ✨ Thanks for visiting my profile! 🚀
